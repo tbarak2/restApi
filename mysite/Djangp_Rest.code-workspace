@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "/var/www"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/var/www/restvirtualenv/bin/python"
+	}
+}
